@@ -4,7 +4,7 @@ A responsive video streaming web application built with React.js. NxtWatch allow
 
 ## 🚀 Live Demo
 
-Coming soon...
+https://nxtwatch.ccbp.tech/
 
 ## 📌 Features
 
